@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">imc</string>
+    <string name="calculadora_ibc">Calculadora IBC</string>
+    <string name="estadura_m">Estadura (m):</string>
+    <string name="ejemplo_1_75m">Ejemplo: 1.75m</string>
+    <string name="peso_kg">Peso (kg):</string>
+    <string name="ejemplo_75kg">Ejemplo: 75kg</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado_imc">Resultado IMC</string>
+    <string name="no_calculado">No calculado</string>
+</resources>
